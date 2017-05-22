@@ -6,5 +6,8 @@
 * [Systems are data driven](systems-are-data-driven.md)
 * [Maintaining Meta-Data](maintaining-meta-data.md)
 * [Raw Meta-Data](raw-meta.md)
+* [Datomic schema is Meta-Data](datomic-schema-is-meta-data.md)
 * [Web Routes are Meta-Data](web-routes-are-meta-data.md)
+* [Terse Data DSLs](data-dsls.md)
+* [Data Macros are a thing](data-macros-are-a-thing.md)
 
