@@ -1,3 +1,13 @@
-# First Chapter
+# What is a macro?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+A transformation of code \(data\) to different code e.g. 
+
+```
+(macroexpand
+  '(when true 1))
+  
+=> (if true (do 1))  
+```
+
+
+
