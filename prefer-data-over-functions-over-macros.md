@@ -1,8 +1,12 @@
 # Macros can be hard...
 
-..to write and/or to use if not written with care. 
+..to write and/or to use if not written with care.
 
-So there is general guideline to prefer **data** over **functions** over **macros**
+So it's good to prefer...
+
+* **data **: easy to compose
+* **functions** : easy to write, needs care to be composable
+* **macros **: difficult to write well, limited composability
 
 
 
