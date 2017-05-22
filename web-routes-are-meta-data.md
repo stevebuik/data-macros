@@ -1,6 +1,6 @@
 # Clojure Web Routing Meta-Data
 
-An example from Pedestal:
+An example from Pedestal. A **verbose** route:
 
 ```
  { :route-name :hello-world
