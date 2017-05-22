@@ -3,23 +3,22 @@
 An example from Pedestal:
 
 ```
- {:route-name :hello-workd
+ { :route-name :hello-world
    :path       "/hello-world"
    :method     :get
    :scheme     :http               
    :host       "example.com"       
    :port       "8080"              
-   :interceptors [...]             ; vector of interceptors to be enqueued on the context
-   
+   :interceptors [hello-world]
    }
 ```
 
-or in the terse form
+or in the **terse** form
 
 ```
 [[:hello-world :http "example.com"
- ["/hello-world" {:get hello-world}]]]
+  ["/hello-world" {:get hello-world}]]]
 ```
 
-
+Why have a **terse** form? Readability!
 
