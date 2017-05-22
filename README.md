@@ -1,3 +1,4 @@
-# My Awesome Book
+# Data Macros in Clojure
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+A quick survey of data expansion techniques
+
