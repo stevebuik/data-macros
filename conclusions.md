@@ -8,3 +8,5 @@ A combination of Spec conform and native Clojure seems to be the _simplest_ way 
 
 Comments welcome at the Clojure [Google group in this thread](https://groups.google.com/forum/#!topic/clojure/XJqm4LCGSk0)
 
+This presentation can be found at http://tiny.cc/data-macros
+
