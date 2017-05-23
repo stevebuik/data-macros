@@ -1,6 +1,6 @@
 # Systems are data driven
 
-or more accurately, **meta data** driven.
+or more accurately, **meta data** driven     \( do not confuse this with Clojure `(with-meta {})` \)
 
 System Phase examples of meta-data :
 

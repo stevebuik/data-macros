@@ -10,4 +10,12 @@
 * [Web Routes are Meta-Data](web-routes-are-meta-data.md)
 * [Terse Data DSLs](data-dsls.md)
 * [Data Macros are a thing](data-macros-are-a-thing.md)
+* [Expansion Techniques](techniques.md)
+* [Code : Destructuring](code-destructuring.md)
+* [Code : Protocols](code-protocols.md)
+* [Code : EDN Readers](demo-in-repl.md)
+* [Code : Spec sequence parsing](code-spec-sequence-parsing.md)
+* [Code : Tracks](code-tracks.md)
+* [Ratings](ratings.md)
+* [Conclusions](conclusions.md)
 
