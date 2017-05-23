@@ -1,5 +1,7 @@
 # Expansion using Clojure De-structuring
 
+Mentioned in [Clojure Recipes](http://clojurerecipes.net) by Julian Gamble
+
 ```Clojure
 (let [transform (fn [[attribute-name cardinality data-type description]]    ; input shape
                   {:db/id                 '(datomic.api/tempid :db.part/db) ; output shape
