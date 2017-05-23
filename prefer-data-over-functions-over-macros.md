@@ -1,10 +1,10 @@
 # Macros can be hard...
 
-..to write and/or to use if not written with care.
+..to write and/or to use, if not written with care.
 
 So it's good to prefer...
 
-* **data **: easy to compose
+* **data **: easy to compose and manipulate
 * **functions** : easy to write, needs care to be composable
 * **macros **: difficult to write well, limited composability
 

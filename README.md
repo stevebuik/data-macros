@@ -1,4 +1,4 @@
 # Data Macros in Clojure
 
-A quick survey of data expansion techniques
+A non-exhaustive survey of data expansion techniques
 

@@ -33,5 +33,5 @@ All this for 3 database attributes:
   :db.install/_attribute :db.part/db}
 ```
 
-A lot of meta-data is nested and recursive and this makes it harder to read.
+A lot of meta-data is nested and recursive and this makes it harder to read. The example above does not show recursion but Datomic schema is recursive for _Component Attributes_
 

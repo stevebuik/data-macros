@@ -1,8 +1,10 @@
 # Expansion Techniques
 
+This is the non-exhaustive part. The examples I've found are:
+
 ## Code
 
-1. Functions with destructuring and tree walkers \(walk or zipper\)
+1. Functions with de-structuring and tree walkers \(walk or zipper\)
 2. Expansion protocols
 3. EDN Reader macros
 

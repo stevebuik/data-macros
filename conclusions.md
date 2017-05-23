@@ -4,7 +4,7 @@ Data macros are a useful general technique and are very useful when creating rea
 
 Lots of projects are doing this. You probably will too.
 
-It seems like a combination of Spec conform and de-structuring seems to be the _simplest_ way to expand data. It supports recursion natively and works well for vector -&gt; map transformations which seems to be how most **terse** DSLs are being built.
+A combination of Spec conform and native Clojure seems to be the _simplest_ way to expand data. It supports recursion natively and works well for vector -&gt; map transformations which seems to be how most **terse** DSLs are being built.
 
 Comments welcome at the Clojure [Google group in this thread](https://groups.google.com/forum/#!topic/clojure/XJqm4LCGSk0)
 

@@ -4,10 +4,12 @@ Who knows if the term **Data Macro** will stick but it makes sense.
 
 A Clojure macro expands code \(data\) so anything that expands data can be called a macro as well.
 
-But which expansion mechanism is best? What does **best** mean?
+But which expansion mechanism is best? What does **best** mean? 
+
+Let's call the expansion a data **transform**. Here's how we'll evaluate:
 
 * Transform Readability
-* Transform Safety i.e. shape conformance checks
+* Transform Safety i.e. shape conformance checks \(cough...types\)
 * Transform Versatility i.e. supports many input and output shapes
 
 **Note**: not rating data/DSL readability because that is part of a specific app design, not a generalised design or idea.
